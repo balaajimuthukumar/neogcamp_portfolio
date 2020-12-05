@@ -45,6 +45,9 @@ body{
     display:inline;
     padding:0 0.5rem;
 }
+.inline:active{
+    color:grey;
+}
 .link{
     text-decoration: none;
     padding:0.5rem 1rem;
