@@ -49,6 +49,9 @@ body{
     text-decoration: none;
     padding:0.5rem 1rem;
 }
+.link-active{
+    color:grey;
+}
 /*Profile image and introduction*/
 .hero{
     margin:10px;
