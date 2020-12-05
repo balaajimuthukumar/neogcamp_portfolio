@@ -85,7 +85,9 @@ body{
     text-decoration: none;
     padding:0.5rem 1rem;
 }
-
+.link:active{
+    color:grey;
+}
 .link-primary{
     color:var(--primary-color);
     border-radius: 0.5rem;
